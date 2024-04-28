@@ -1,5 +1,5 @@
 # crkbd
-Corne keyboard layout
+Corne keyboard layout for qmk via
 
 
 Need to add screenshots
