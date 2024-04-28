@@ -14,5 +14,7 @@ Layer 3
 ![layer3](https://github.com/warpje5/crkbd/assets/125624948/e6922384-af3b-4067-8cbe-bd1a36bc665d)
 
 Right part, left thumb button - hold Layer 2, tap Enter
+
 Right part, middle thumb button - hold LWin, tap Backspace
+
 Hold both layers buttons - Layer 3
